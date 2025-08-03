@@ -1,0 +1,7 @@
+greeting="hello python!"
+quote="this is me single line string !"
+multi="""and this is me 
+multiline string"""
+print("greeting:", greeting ,type(greeting))
+print("quote:", quote  ,type(quote))
+print("multi:", multi ,type(multi))
